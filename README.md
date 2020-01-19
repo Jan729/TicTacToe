@@ -6,7 +6,9 @@ An example of a game:
 ![Gamescreen](screenshots/gameScreen.png?raw=true "Title")
 
 In the event of a tie...
+
 ![Gamescreen](screenshots/tie.png?raw=true "Title")
 
 Game over:
+
 ![Gamescreen](screenshots/playerXwins.png?raw=true "Title")
